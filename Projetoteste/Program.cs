@@ -6,9 +6,9 @@ namespace Projetoteste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Console.WriteLine("batata");
             Console.WriteLine("sei la outra modificação");
+            Console.WriteLine("tristeza");
         }
     }
 }
